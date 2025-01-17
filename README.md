@@ -21,10 +21,15 @@ this added us time and efficiency while developing the app.
 * Admin panel
 
 ## Used technologies:
-* Parse database
-* Retrofit
-* Fragment
-* OOP
 * Java
+* Retrofit
+* XML
+* SQLite
+* UPI SDK,
+* Biometric API
+* Firebase Cloud Messaging(FCM)
+* JUnit
+* Fragment
+* OOPS
 * State Design Pattern
 
